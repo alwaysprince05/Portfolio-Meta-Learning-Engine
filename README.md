@@ -20,6 +20,10 @@
 
 > *Real-time dashboard showing +18.00% total return · Sharpe 1.498 · Max Drawdown -9.33% · Ann. Volatility 15.54%*
 
+![Spectral Market Decomposition — 3D FFT Surface & Frequency Spectrum](image2.png)
+
+> *Spectral Market Decomposition — Interactive 3D rolling FFT surface (Time × Frequency × Amplitude) with dominant frequency at 0.0000 Hz · amplitude 0.1123 units*
+
 ---
 
 ## 🧠 What Is This?
